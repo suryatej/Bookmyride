@@ -1,0 +1,4 @@
+com/bookmyride/repository/TaxiRepository.class
+com/bookmyride/entity/Taxi.class
+com/bookmyride/entity/TaxiBooking.class
+com/bookmyride/repository/TaxiBookingRepository.class
