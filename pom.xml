@@ -16,5 +16,6 @@
   <modules>
   	<module>BookMyRideModel</module>
   	<module>BookMyRideTaxiServices</module>
+  	<module>BookMyRideTaxiBookingService</module>
   </modules>
 </project>
